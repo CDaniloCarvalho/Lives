@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Pagode",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "As Melhore Lives de Pagode",
+        "url": "https://www.youtube.com/watch?v=PubdXt8Qy-I&t=1737s"
+        
+      },
+      "videos": [
+        {          
+          "url": "https://www.youtube.com/watch?v=Xr16zz9lkDE"
+        },
+        {
+          "titulo": "Alexandre Pires e Seu Jorge",
+          "url": "https://www.youtube.com/watch?v=PubdXt8Qy-I&t=1737s"
+        },
+        {
+          "titulo": "Grandes Sucessos do BOKALOKA",
+          "url": "https://www.youtube.com/watch?v=iov6qqqBKzc&t=2100s"
+        },
+        {
+          "titulo": "Pixote Sunset",
+          "url": "https://www.youtube.com/watch?v=js0N6Pb7mTU"
+        },
+        {
+          "titulo": "Som da Energia com Péricles",
+          "url": "https://www.youtube.com/watch?v=P99edVLuBVU"
+        },
+        {
+          "titulo": "OriginalNaLivedoFerrugem",
+          "url": "https://www.youtube.com/watch?v=5DAXlg0dh7w"
+        },
+        {
+          "titulo": "Sorriso Ama as Antigas",
+          "url": "https://www.youtube.com/watch?v=zUql_hIWxMU"
+        },
+        {
+          "titulo": "Churrasquinho do Menos é Mais ",
+          "url": "https://www.youtube.com/watch?v=2JUbPdls4hs"
+        }        
+      ]
+    },
+    {
+      "titulo": "Sertanejo",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "As Melhores lives de Sertanejo",
+        "url": "https://www.youtube.com/watch?v=s-aScZtOfbM"
+      },
+      "videos": [
+        {
+          "titulo": "LiveLocalMariliaMendonca",
+          "url": "https://www.youtube.com/watch?v=s-aScZtOfbM"
+        },
+        {
+          "titulo": "Buteco Especial São João",
+          "url": "https://www.youtube.com/watch?v=gX58fi9MUJk"
+        },
+        {
+          "titulo": "Maiara e Maraisa - #AquiEmCasaDois",
+          "url": "https://www.youtube.com/watch?v=SM1stJnhX0w"
+        },
+        {
+          "titulo": "Simone e Simaria - Live das Coleguinhas 2",
+          "url": "https://www.youtube.com/watch?v=_YWIUZuP8P0"
+        }, 
+        {
+          "titulo": "Jorge & Mateus - Na Praia edição Hotel",
+          "url": "https://www.youtube.com/watch?v=267BZ2oWbYo"
+        },
+        {
+          "titulo": "LEONARDO - #CantoBeboeChoro",
+          "url": "https://www.youtube.com/watch?v=2hrZDDWMV48"
+        }
+      ]
+    },
+    {
+      "titulo": "MPB",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "As Melhores do MPB",
+        "url": "https://www.youtube.com/watch?v=__wGzZu6HuU"
+      },
+      "videos": [
+        {
+          "titulo": "O Grande Encontro - Alceu Valença, Elba Ramalho e Geraldo Azevedo",
+          "url": "https://www.youtube.com/watch?v=__wGzZu6HuU"
+        },
+        {
+          "titulo": "Nando Reis - Voz e Violão",
+          "url": "https://www.youtube.com/watch?v=GIVrw_Ynl6g"
+        },
+        {
+          "titulo": "Ciclo - Jorge Vercillo",
+          "url": "https://www.youtube.com/watch?v=jlqwvbY6ihA"
+        },
+        {
+          "titulo": "Roupa Nova - Live Drive-In Show",
+          "url": "https://www.youtube.com/watch?v=TLGdwo38Hho"
+        },
+        {
+          "titulo": "raimundo Fagner",
+          "url": "https://www.youtube.com/watch?v=yuhxEkR8RYM"
+        }
+      ]
+    },
+    {
+      "titulo": "Forró",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Wesley Safadão - Amor Ex Amor - DVD WS Em Casa",
+          "url": "https://www.youtube.com/watch?v=6_wPcDm9taM"
+        },
+        {
+          "titulo": "Xand Avião e Carvalheira na Fogueira - SÃO JOÃO",
+          "url": "https://www.youtube.com/watch?v=pSkRigx_GHk"
+        },
+        {
+          "titulo": "Cavaleiros do Forró - Pra Beber & Pra Roer",
+          "url": "https://www.youtube.com/watch?v=G1z1i1bYmBc"
+        },
+        {
+          "titulo": "Mastruz com Leite - Forró das Antigas",
+          "url": "https://www.youtube.com/watch?v=dRNAKQgAkPA"
+        }
+      ]
+    },
+    {
+      "titulo": "Axé",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Ivete Sangalo | Arraiá da Veveta",
+          "url": "https://www.youtube.com/watch?v=jEXceXzd9XQ"
+        },
+        {
+          "titulo": "Baile da Santinha Sunset | Léo Santana",
+          "url": "https://www.youtube.com/watch?v=Gxkh5EQkeGw"
+        },
+        {
+          "titulo": "Samba em Harmonia",
+          "url": "https://www.youtube.com/watch?v=w_PSliHgVy8"
+        },
+        {
+          "titulo": "Claudia Leitte - 40tando na quarentena",
+          "url": "https://www.youtube.com/watch?v=M6S7bDTJ5_w"
+        },
+        {
+          "titulo": "PSIRICO #psiRetrô #livedoPsi",
+          "url": "https://www.youtube.com/watch?v=k6g7tXQX-EE"
+        }
+      ]
+    },
+    {
+      "titulo": "Reggae",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "As Melhores de Reggae",
+        "url": "https://www.youtube.com/watch?v=Dje21jkadkg"
+      },
+      "videos": [
+        {
+          "titulo": "Melim (em Casa)",
+          "url": "https://www.youtube.com/watch?v=Dje21jkadkg"
+        },
+        {
+          "titulo": "ACÚSTICO NATIRUTS 2020 NATIRUTS",
+          "url": "https://www.youtube.com/watch?v=JYV7gGJzm-w"
+        },
+        {
+          "titulo": "Armandinho",
+          "url": "https://www.youtube.com/watch?v=0bbdm1PL6II"
+        },
+        {
+          "titulo": "ONZE:20",
+          "url": "https://www.youtube.com/watch?v=_Nn9psoIjBw"
+        },
+        {
+          "titulo": "Chimarruts LIVE - Todos Somos um",
+          "url": "https://www.youtube.com/watch?v=w9PdquAHJ7g"
+        }
+      ]
+    }
+  ]
+}
