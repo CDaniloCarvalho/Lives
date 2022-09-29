@@ -5,7 +5,7 @@
       "link": "/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "As Melhore Lives de Pagode",
+        "text": "As Melhores de Pagode",
         "url": "https://www.youtube.com/watch?v=PubdXt8Qy-I&t=1737s"
         
       },
@@ -22,12 +22,12 @@
           "url": "https://www.youtube.com/watch?v=iov6qqqBKzc&t=2100s"
         },
         {
-          "titulo": "Pixote Sunset",
-          "url": "https://www.youtube.com/watch?v=js0N6Pb7mTU"
+          "titulo": "Pixote ",
+          "url": "https://www.youtube.com/watch?v=W3-JVUQVJlU"
         },
         {
-          "titulo": "Som da Energia com Péricles",
-          "url": "https://www.youtube.com/watch?v=P99edVLuBVU"
+          "titulo": "Menos é Mais",
+          "url": "https://www.youtube.com/watch?v=ftfjkKUsieQ"
         },
         {
           "titulo": "OriginalNaLivedoFerrugem",
@@ -38,8 +38,8 @@
           "url": "https://www.youtube.com/watch?v=zUql_hIWxMU"
         },
         {
-          "titulo": "Churrasquinho do Menos é Mais ",
-          "url": "https://www.youtube.com/watch?v=2JUbPdls4hs"
+          "titulo": "Péricles - Pagode do Pericão 2 ",
+          "url": "https://www.youtube.com/watch?v=KZ9Xco-z1-g"
         }        
       ]
     },
@@ -47,13 +47,13 @@
       "titulo": "Sertanejo",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "As Melhores lives de Sertanejo",
+        "text": "As Melhores de Sertanejo",
         "url": "https://www.youtube.com/watch?v=s-aScZtOfbM"
       },
       "videos": [
         {
-          "titulo": "LiveLocalMariliaMendonca",
-          "url": "https://www.youtube.com/watch?v=s-aScZtOfbM"
+          "titulo": "George Henrique e Rodrigo Feat. Marília Mendonça - Vai Lá Em Casa Hoje",
+          "url": "https://www.youtube.com/watch?v=r2ma8WPRppk"
         },
         {
           "titulo": "Buteco Especial São João",
@@ -80,9 +80,8 @@
     {
       "titulo": "MPB",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "As Melhores do MPB",
-        "url": "https://www.youtube.com/watch?v=__wGzZu6HuU"
+        "link_extra": {
+        "text": "As Melhores do MPB"
       },
       "videos": [
         {
@@ -110,28 +109,38 @@
     {
       "titulo": "Forró",
       "cor": "orange",
+      "link_extra": {
+        "text": "As Melhores do Forró"
+      },
       "videos": [
         {
-          "titulo": "Wesley Safadão - Amor Ex Amor - DVD WS Em Casa",
-          "url": "https://www.youtube.com/watch?v=6_wPcDm9taM"
+          "titulo": "Wesley Safadão - Tu Tava na Revoada",
+          "url": "https://www.youtube.com/watch?v=GmlBAosY3V0"
         },
         {
-          "titulo": "Xand Avião e Carvalheira na Fogueira - SÃO JOÃO",
-          "url": "https://www.youtube.com/watch?v=pSkRigx_GHk"
+          "titulo": "Mari Fernandez - PODE APOSTAR feat. Xand Avião",
+          "url": "https://www.youtube.com/watch?v=5EuvLJPOuKo"
         },
         {
-          "titulo": "Cavaleiros do Forró - Pra Beber & Pra Roer",
-          "url": "https://www.youtube.com/watch?v=G1z1i1bYmBc"
+          "titulo": "EU TENHO A SENHA - João Gomes",
+          "url": "https://www.youtube.com/watch?v=deVm70yarNw"
         },
         {
           "titulo": "Mastruz com Leite - Forró das Antigas",
           "url": "https://www.youtube.com/watch?v=dRNAKQgAkPA"
+        },
+        {
+          "titulo": "Matheus Fernandes e Xand Avião - Balanço da Rede",
+          "url": "https://www.youtube.com/watch?v=vAM1xXdRnH0"
         }
       ]
     },
     {
       "titulo": "Axé",
       "cor": "red",
+      "link_extra": {
+        "text": "As Melhores do Axé"
+      },
       "videos": [
         {
           "titulo": "Ivete Sangalo | Arraiá da Veveta",
